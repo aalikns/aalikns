@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hasan Ali Kınaş!
 
-I am a 2nd-year **Electronics and Communication Engineering** student at **Izmir Institute of Technology (IYTE)**. My university provides 100% English instruction, which helps me stay connected with global tech trends.
+I am a 3nd-year **Electronics and Communication Engineering** student at **Izmir Institute of Technology (IYTE)**. My university provides 100% English instruction, which helps me stay connected with global tech trends.
 
 ### 🎹 My World: Piano & Engineering
 I've been playing the **piano for over 10 years**, and I'm deeply passionate about **Western Classical Music**. For me, coding a complex system is very similar to practicing a difficult piano piece—both require discipline, patience, and a sense of harmony. I also enjoy **music production** and exploring the intersection of sound and signals.
